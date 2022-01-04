@@ -1,3 +1,6 @@
+<html>
+<body>
+
 <script src="https://unpkg.com/blip-chat-widget" type="text/javascript">
 </script>
 <script>
@@ -11,4 +14,7 @@
         }
     })();
 </script>
+
+</body>
+</html>
                                 
