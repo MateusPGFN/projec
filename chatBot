@@ -1,0 +1,14 @@
+<script src="https://unpkg.com/blip-chat-widget" type="text/javascript">
+</script>
+<script>
+    (function () {
+        window.onload = function () {
+            new BlipChat()
+            .withAppKey('Y2VhZXRlc3RlMjo5ZDM0ZjVhOS00MTM5LTRkYWEtYWFlMC1mZTFhNmEwYzJlYTY=')
+            .withButton({"color":"#41245e","icon":"https://blipmediastore.blob.core.windows.net/public-medias/Media_c74f5d1e-0a0b-4bfd-a022-18acb9272084"})
+            .withCustomCommonUrl('https://mateus-linhares-ferreira-k775v.chat.blip.ai/')
+            .build();
+        }
+    })();
+</script>
+                                
